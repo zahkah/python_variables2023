@@ -7,7 +7,7 @@ import math
 	print out "My name is X. My parents' names are Y and Z"
 """
 print("\nQ 1.")
-my_name = "James"
+my_name = "zach"
 parent_name1 = "Bob"
 parent_name2 = "Mary"
 
